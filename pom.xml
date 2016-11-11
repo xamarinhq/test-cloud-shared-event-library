@@ -4,7 +4,7 @@
 
     <groupId>com.xamarin.testcloud</groupId>
     <artifactId>event</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>Xamarin test cloud shared event library</name>
     <description>TODO</description>
     <url>TODO</url>
@@ -33,7 +33,7 @@
         <connection>scm:git:git@github.com:xamarinhq/test-cloud-shared-event-library.git</connection>
         <developerConnection>scm:git:git@github.com:xamarinhq/test-cloud-shared-event-library.git</developerConnection>
         <url>git@github.com:xamarinhq/test-cloud-shared-event-library.git</url>
-      <tag>event-1.0</tag>
+      <tag>event-1.1</tag>
   </scm>
 
     <dependencies>
