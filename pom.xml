@@ -28,13 +28,13 @@
             <organizationUrl>http://www.xamarin.com</organizationUrl>
         </developer>
     </developers>
-    <!--scm>
-        <connection>scm:git:git@github.com:xamarinhq/test-cloud-appium-java-extensions.git</connection>
-        <developerConnection>scm:git:git@github.com:xamarinhq/test-cloud-appium-java-extensions.git
-        </developerConnection>
-        <url>git@github.com:xamarinhq/test-cloud-appium-java-extensions.git</url>
+    <scm>
+
+        <connection>scm:git:git@github.com:xamarinhq/test-cloud-shared-event-library.git</connection>
+        <developerConnection>scm:git:git@github.com:xamarinhq/test-cloud-shared-event-library.git</developerConnection>
+        <url>git@github.com:xamarinhq/test-cloud-shared-event-library.git</url>
       <tag>HEAD</tag>
-  </scm-->
+  </scm>
 
     <dependencies>
         <dependency>
@@ -127,5 +127,4 @@
             </build>
         </profile>
     </profiles>
-
 </project>
